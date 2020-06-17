@@ -211,13 +211,12 @@ Você também pode usar um dos seguintes recursos para ajudá-lo a descobrir e c
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
-* [First Timers Only](https://www.firsttimersonly.com/)
+* [First Timers Only](http://www.firsttimersonly.com/)
+* [Your First PR](https://yourfirstpr.github.io/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
-* [Up For Grabs](https://up-for-grabs.net/)
+* [Up For Grabs](http://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
-* [First Contributions](https://firstcontributions.github.io)
-* [SourceSort](https://www.sourcesort.com/)
 
 ### Um checklist antes de você contribuir
 
